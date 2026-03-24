@@ -136,7 +136,7 @@ Diabetes-Type-Identifier-NLP/
 │
 ├── Diabetes_Type_Identifier.ipynb   ← Main Colab notebook
 ├── README.md                        ← Project documentation
-├── requirements.txt                 ← Dependencies
+├── requirements_diabetes.txt                 ← Dependencies
 ├── demo.png                         ← Gradio UI screenshot
 ├── output_no_diabetes.png           ← No Diabetes output
 └── output_type1.png                 ← Type 1/2 output
